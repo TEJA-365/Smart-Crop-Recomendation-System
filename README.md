@@ -235,7 +235,7 @@ python manage.py check    # Check for configuration issues
 
 ##  Contact
 
-**Email:** saitejatangellapalli@gmail.com
+Email: saitejatangellapalli@gmail.com
 
 ---
 
